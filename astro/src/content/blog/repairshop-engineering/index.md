@@ -5,8 +5,10 @@ date: "2024-01-01T00:00:00Z"
 pubDate: "2026-01-06T19:00:00+07:00"
 description: "A small lesson upon an incident in a repairshop."
 slug: "repairshop-engineering"
+heroImage: "./hero.png"
 ---
 
+<!-- ![Hero](./hero.png) -->
 
 A few weeks ago, my motorcycle tire went flat, so I brought it to a tire repair shop. For the context, it was quite late at night, and the repairman (and I too!) was feeling tired at that time. Upon seeing the repair shop (delightfully), I went there and ask the repairman. Here's how our conversation went roughly:
 
