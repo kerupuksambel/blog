@@ -1,15 +1,25 @@
-# Stage 1 : Hugo build
-FROM ghcr.io/gohugoio/hugo:v0.135.0 AS builder
+# Stage 1 : Astro build
+FROM node:22-alpine AS builder
+
 WORKDIR /app
 
-COPY src /app
-RUN hugo
+# Copy only dependency files first (better caching)
+COPY astro/package.json astro/package-lock.json ./
+
+RUN npm ci
+
+# Copy the rest of the Astro project
+COPY astro/ .
+
+# Build the site
+RUN npm run build
+
 
 # Stage 2 : Deployment
-FROM nginx:alpine
+FROM nginx:1.28.1-alpine
 
 # Setup NGINX
 COPY ./nginx/default.conf /etc/nginx/nginx.conf
 
 WORKDIR /app
-COPY --from=builder /app/public .
+COPY --from=builder /app/dist .
