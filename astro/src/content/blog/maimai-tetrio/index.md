@@ -38,7 +38,7 @@ And then you have it; why the experiences differs dramatically? Because their ga
 
 ---
 
-I really love (hell, I adore) Maimai (and rhythm games in general) and Tetrio (and Tetris games in general, yes that includes the classic NES version), but their differing gameplay gives me both the two unique perspective of what the game works; one tends to go on merit system in which it purely only judge by your performance, and one tends to replicate most of the things in real life, in which people could alter your experience with their privilege.
+I really love (hell, I adore) Maimai (and rhythm games in general) and Tetrio (and Tetris games in general, yes that includes the classic NES version), but their differing gameplay gives me both the two unique perspective of what the game works; one tends to go on merit system in which it purely only judge by your performance, and one tends to replicate some of the things in real life, in which people could alter your experience with their privilege.
 
 *But wait, what the hell do you mean “some”? Isn’t life supposed to be like that all the time?*
 
