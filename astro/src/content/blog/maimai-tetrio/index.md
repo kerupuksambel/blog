@@ -5,6 +5,7 @@ date: "2026-05-10T00:00:00Z"
 pubDate: "2026-05-10T20:00:00+07:00"
 description: "A short essay about two of my favorite game genres."
 slug: "maimai-tetrio"
+heroImage: "./maimai.jpeg"
 ---
 
 During my first one and a half months of my works in my current workplace, there are two occurrences that lingers my mind, and uniquely, this doesn’t have anything to do with my professional gig.
@@ -12,6 +13,8 @@ During my first one and a half months of my works in my current workplace, there
 The first thing is that given my location is quite near with an arcade with lots (and I do mean LOTS) of rhythm game cabinets, I play more arcade rhythm games (especially Maimai and Chunithm, but for the context of this writing, I’ll be focusing on [Maimai](https://maimai.sega.com/)), and with the nature of arcade games, you eventually would need to play with other people. And thank goodness for this, people that frequently plays Maimai are absolutely cracked (we talking about 13-15k rating, in which in Layman term, is very skilled and comparable to the professional scene, given the pro rating would be around 16k), and given Maimai is designed to encourage cooperative gameplay (in which 2 players simultaneously playing in one session would get more perks, more songs to play, etc), I have some instances in which I happened to play together with some skilled player in which having 14-15k rating, while my rating (in which around 5k around this writing), which eventually reflects on my skill level, couldn’t even slightly comparable with theirs. 
 
 However, the unique thing is that given the Maimai gameplay only consider the individual performances, so no matter if I paired with a pro or a newbie, my score (and theirs) would still only be judged from my performance only, without anyway for them to alter my result directly. Indeed, there is still a psychological barrier that went something like “damn this is a pro, if I play something basic while they played Re:Master 14+ and FC or even AP that I would look dumb as hell”, but still; it’s all inside my head, and if I can [just enjoy game](https://www.youtube.com/watch?v=FWhwWUOm_Ck), I can overcame that and plays without any burdening thoughts.
+
+![It's amazing to play with a 16k rating player that even my PB seems nothing compared to their SSS 😅](./maimai.jpeg "It's amazing to play with a 16k rating player that even my PB seems nothing compared to their SSS 😅")
 
 The other thing is that I started to play Tetrio more, in which is a web-based [modern Tetris](https://tetris.wiki/Tetris_Guideline#Indispensable_rules) client. I played Tetris since my early college days (or even some of my high school time as well), but I haven’t touched Tetrio for a while for some reason (I still plays some Jstris though, which is also a modern Tetris web client as well). However some friends of mine (in which also colleagues) play it, so I joined them and here’s the simplified reenactment of what happened;
 
@@ -28,7 +31,7 @@ Those two occurrences happened, albeit not simultaneously, happens in such a clo
 
 The answer actually already hiding in my writing; Maimai doesn’t allow the opposing player to infer your gameplay, but Tetrio do. In Maimai, you can’t expel additional notes or debuff the other player if you play better like in [Guitar Hero 3 boss battles](https://www.youtube.com/watch?v=7dX3rtl3avc), and vice versa; in Tetrio battle, no matter if you plays better than your personal records, you would still prone to losing if you play against the player that better than you. 
 
-![I got this achievement during my losing multi tbh 🥀](attachment:09c68fcb-6235-4e1d-9c8c-97546bfe9fd6:Screenshot_2026-05-10_at_19.28.11.png)
+![I got this achievement during my losing multi tbh 🥀](./tetrio.png "I got this achievement during my losing multi tbh 🥀")
 
 And to dig deeper; Maimai actually playable individually ([and even there are some pros on doing so](https://www.reddit.com/r/maimai/comments/17ixnjg/can_you_play_the_cab_alone/)), but given the limited cabs amount in a socially setup place (i.e. an arcade), hence it’s quite common to see queues for people to play Maimai, so the game encourage you to play with a partner. And if you come alone? The only option to play with a partner is to join with someone to play. And the chance of that person to be a pro? It’s quite high.
 
