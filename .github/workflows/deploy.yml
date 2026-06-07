@@ -23,5 +23,5 @@ jobs:
             docker build -t blog:latest .
             docker stop blog 2>/dev/null || true
             docker rm blog 2>/dev/null || true
-            docker run -d --name blog --restart unless-stopped -p 8080:80 blog:latest
+            docker run -d --name blog --restart unless-stopped -p 6969:80 blog:latest
             docker image prune -f
