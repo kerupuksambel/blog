@@ -14,7 +14,7 @@ The first thing is that given my location is quite near with an arcade with lots
 
 However, the unique thing is that given the Maimai gameplay only consider the individual performances, so no matter if I paired with a pro or a newbie, my score (and theirs) would still only be judged from my performance only, without anyway for them to alter my result directly. Indeed, there is still a psychological barrier that went something like “damn this is a pro, if I play something basic while they played Re:Master 14+ and FC or even AP that I would look dumb as hell”, but still; it’s all inside my head, and if I can [just enjoy game](https://www.youtube.com/watch?v=FWhwWUOm_Ck), I can overcame that and plays without any burdening thoughts.
 
-![It's amazing to play with a 16k rating player that even my PB seems nothing compared to their SSS 😅](./maimai.jpeg "It's amazing to play with a 16k rating player that even my PB seems nothing compared to their SSS 😅")
+![It's amazing to play with a 15k rating player that even my PB seems nothing compared to their SSS 😅](./maimai.jpeg "It's amazing to play with a 15k rating player that even my PB seems nothing compared to their SSS 😅")
 
 The other thing is that I started to play Tetrio more, in which is a web-based [modern Tetris](https://tetris.wiki/Tetris_Guideline#Indispensable_rules) client. I played Tetris since my early college days (or even some of my high school time as well), but I haven’t touched Tetrio for a while for some reason (I still plays some Jstris though, which is also a modern Tetris web client as well). However some friends of mine (in which also colleagues) play it, so I joined them and here’s the simplified reenactment of what happened;
 
